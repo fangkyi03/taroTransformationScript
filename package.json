@@ -1,0 +1,36 @@
+{
+  "name": "tarotransformationscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangkyi03/taroTransformationScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangkyi03/taroTransformationScript/issues"
+  },
+  "homepage": "https://github.com/fangkyi03/taroTransformationScript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-decorators": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/traverse": "^7.10.4",
+    "fs": "^0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "through-gulp": "^0.5.0",
+    "os": "^0.1.1",
+		"path": "^0.12.7",
+		"postcss": "^7.0.32",
+		"postcss-modules": "^3.2.0",
+    "prettier": "^2.0.5",
+    "co": "^4.6.0"
+  }
+}
